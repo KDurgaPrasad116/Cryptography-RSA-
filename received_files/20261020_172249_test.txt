@@ -1,0 +1,1 @@
+Sample file data for encryption test
